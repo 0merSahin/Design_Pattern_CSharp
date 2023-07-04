@@ -1,0 +1,7 @@
+/Users/omersahin/Desktop/EmptyTamplate/bin/Debug/Project4_211229013.exe.config
+/Users/omersahin/Desktop/EmptyTamplate/bin/Debug/Project4_211229013.exe
+/Users/omersahin/Desktop/EmptyTamplate/bin/Debug/Project4_211229013.pdb
+/Users/omersahin/Desktop/EmptyTamplate/obj/Debug/Project4_211229013.csproj.AssemblyReference.cache
+/Users/omersahin/Desktop/EmptyTamplate/obj/Debug/Project4_211229013.csproj.CoreCompileInputs.cache
+/Users/omersahin/Desktop/EmptyTamplate/obj/Debug/Project4_211229013.exe
+/Users/omersahin/Desktop/EmptyTamplate/obj/Debug/Project4_211229013.pdb
